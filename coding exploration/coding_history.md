@@ -4,4 +4,9 @@
 ![img1](https://github.com/janetyc/dc-workingwithai/blob/main/images/Cursor_and_p5_js_Web_Editor___DCB150_Digital_Craftsmanship_-_work_with_AI.png)
 
 - change line_width and stroke color
-![img1](https://github.com/janetyc/dc-workingwithai/blob/main/images/img2.png)
+![img2](https://github.com/janetyc/dc-workingwithai/blob/main/images/img2.png)
+
+- add multiple layers based on an input array: testing data = [5, 200, 30, 200, 40]
+<img src="https://github.com/janetyc/dc-workingwithai/blob/main/images/img3-1.png" alt="image 3-1"/>
+<img src="https://github.com/janetyc/dc-workingwithai/blob/main/images/img3-2.png" alt="image 3-2"/>
+<img src="https://github.com/janetyc/dc-workingwithai/blob/main/images/img3-3.png" alt="image 3-3"/>
