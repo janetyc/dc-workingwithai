@@ -17,7 +17,8 @@ function setup() {
     for (let x = 0; x < windowWidth; x += 10) { 
       for (let y = 0; y < windowHeight; y += 10) { 
         let randomOffset = random(-5, 5);
-        line(x + randomOffset, y, x + randomOffset, y + 10);
+        line(x + randomOffset, y, x + randomOffset, y + temperature_data[i%temperature_data.length]);
+        i++;
       }
     }
   });
