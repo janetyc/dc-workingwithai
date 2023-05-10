@@ -1,0 +1,3 @@
+- initial pattern: <img src="https://github.com/janetyc/dc-workingwithai/blob/main/images/data_img0.png" alt="image 0"/>
+- read temperature data from forecast.json + change length of vertical line based on temperature value: <img src="https://github.com/janetyc/dc-workingwithai/blob/main/images/data_img1.png" alt="image 1"/>
+- get humidity data and change stroke color based on humidity value: <img src="https://github.com/janetyc/dc-workingwithai/blob/main/images/data_img2.png" alt="image 2"/>
