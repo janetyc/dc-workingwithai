@@ -7,7 +7,7 @@ function setup() {
   i=0;
   
   //read data from json
-  d3.json("forecast.json").then((data) => {
+  d3.json("era5.json").then((data) => {
     console.log(data);
     temperature_data = data.hourly.temperature_2m;
     humidity_data = data.hourly.relativehumidity_2m;
